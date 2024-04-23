@@ -1,0 +1,87 @@
+.div1 {
+  padding: 50px;
+  border: 10px solid;
+  border-color: brown;
+  margin: auto;
+  width: 50%;
+}
+.div2 {
+  background-color: gray;
+  padding: 10px;
+  border: 10px solid;
+  border-color: brown;
+  margin: auto;
+  width: 80%;
+}
+.text {
+  text-align: center;
+  color: brown;
+}
+.div3 {
+  padding: 20px;
+  text-align: center;
+  border: 5px none ;
+  border-radius: 10px;
+  width: 20%;
+  margin: auto;
+  color: beige;
+  background-color: blueviolet;
+}
+span{
+  display: inline-block;
+}
+.div5 {
+  border: 10px solid black;
+  width: 20%;
+  margin : 25px 50px 75px 100px;
+  
+}
+.div6 {
+  border: 10px solid black;
+  width: 20%;
+  margin : 25px 50px 75px 100px;
+  
+}
+.div7 {
+  border: 10px solid black;
+  width: 20%;
+  margin : 25px 50px 75px 100px;
+  
+}
+.p1 {
+  border: 10px solid red;
+  width: 48%;
+  margin: 0%;
+  text-align: center;
+  padding: 70px;
+}
+.p2 {
+  border: 10px solid rgb(44, 8, 203);
+  border-top-color: green ;
+  border-bottom-color: green ;
+  width: 48%;
+  margin: 0%;
+  text-align: center;
+  padding: 70px;
+}
+.p3 {
+  border: 10px dashed rgb(44, 8, 203);
+  border-top-color: green ;
+  border-bottom-color: rgb(134, 12, 12) ;
+  border-left-color:yellow;
+  width: 48%;
+  margin: 0%;
+  text-align: center;
+  padding: 70px;
+}
+.div8 {
+  background-color: beige;
+  border: none;
+  padding:0 0 0 20px;
+  
+}
+.p4 {
+  background-color: beige;
+  border-left: solid aquamarine 8px;
+  padding: 0 0 0 20px;
+}
